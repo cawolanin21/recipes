@@ -1,0 +1,4 @@
+#exceptions to the commands
+*.png
+receipts/
+!a.png
